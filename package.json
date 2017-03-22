@@ -1,0 +1,40 @@
+{
+  "name": "gulp-revm-collector",
+  "version": "1.0.1",
+  "description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeideMo/gulp-revm-collector.git"
+  },
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "rev",
+    "revision",
+    "version",
+    "versioning",
+    "static",
+    "asset",
+    "assets",
+    "collect",
+    "collector"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "through2": ">=0.5.1",
+    "underscore": "^1.6.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/WeideMo/gulp-revm-collector/issues"
+  },
+  "homepage": "https://github.com/WeideMo/gulp-revm-collector",
+  "readme": "ERROR: No README data found!"
+}
